@@ -1,5 +1,5 @@
 <template>
   <header class="header">
-    <h1 class="logo">Vue Demo by FungLeo</h1>
+    <h1 class="logo">Vue Demo by Jarvis-Sun</h1>
   </header>
 </template>
